@@ -1,0 +1,37 @@
+body{
+    background-color: #7F7F7F;
+}
+
+h1 {
+    color: #E63946;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center
+}
+
+.one {
+    /* background-color: bisque; */
+    color: #D9BBF9; 
+    
+}
+
+.two {
+    color: #2f96f7;
+    
+}
+
+#three {
+    color: #191923;
+}
+
+h2 {
+    text-align: center;
+}
+
+ol {
+    margin-left: 400px;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
